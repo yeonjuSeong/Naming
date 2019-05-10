@@ -11,9 +11,13 @@ namespace Naming
 {
     public partial class Form1 : Form
     {
+        MessageBoxButtons mbb;
+        MessageBoxIcon mbi;
         public Form1()
         {
             InitializeComponent();
         }
+
+        
     }
 }
